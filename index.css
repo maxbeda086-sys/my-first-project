@@ -1,0 +1,22 @@
+
+body{
+    background-color: beige;
+}
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(255, 0, 0, 0.5);
+}
+.button{
+    background-color: aqua;
+    font-size: 20px;
+    border-color: red;
+    border-radius: 2px;
+}
+ .textarea{
+    resize: none;
+ }
+ .paragraph{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+
+ }
